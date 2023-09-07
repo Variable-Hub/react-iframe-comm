@@ -1,4 +1,4 @@
-React iFrame communication
+React iFrame communication through Variable Hub
 ============
 
 > A React component for communicating between a parent window and an iframe.
